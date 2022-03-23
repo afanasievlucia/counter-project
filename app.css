@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite;
+}
+#number {
+    margin: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: rgb(44, 63, 63);
+}
+.btn {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    background-color: azure;
+    border: solid rgb(141, 173, 173);
+    color: rgb(44, 63, 63);
+    margin: 30px 0 0 30px;
+    padding: 10px;
+}
